@@ -1,0 +1,5 @@
+1. When opening the please run: "npm run build" - in the terminal
+
+2. Then run: "live-server" in the terminal
+
+3. In the window that loads, please navigate to the "dist" folder then click on "index.html"
